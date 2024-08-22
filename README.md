@@ -5,4 +5,4 @@ Author- vaibhav
 
 C:\Users\Vaibhav Mali\AppData\Local\Programs\Microsoft VS Code
 <br>
-C:\Program Files\Git            installed path
+C:\Program Files\Git            installed path git ok
